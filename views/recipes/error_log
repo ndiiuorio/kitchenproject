@@ -1,0 +1,45 @@
+[28-Nov-2018 09:57:12 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Project::get_by_id() in /home/projectsharegocr/public_html/views/projects/edit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/projectsharegocr/public_html/views/projects/edit.php on line 10
+[28-Nov-2018 09:57:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Project::get_by_id() in /home/projectsharegocr/public_html/views/projects/edit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/projectsharegocr/public_html/views/projects/edit.php on line 10
+[28-Nov-2018 11:01:38 America/Vancouver] PHP Warning:  unlink(/home/projectsharegocr/public_html/views/assets/files/1543431586uploadrecipe.jpg): No such file or directory in /home/projectsharegocr/public_html/models/project.php on line 56
+[28-Nov-2018 11:01:38 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/projectsharegocr/public_html/models/project.php:56) in /home/projectsharegocr/public_html/views/projects/edit.php on line 10
+[30-Nov-2018 13:27:08 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/projects/add.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/projects/add.php on line 6
+[30-Nov-2018 13:27:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/projects/add.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/projects/add.php on line 6
+[30-Nov-2018 13:28:07 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/projects/add.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/projects/add.php on line 6
+[05-Dec-2018 10:28:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/recipes/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/recipes/edit.php on line 5
+[05-Dec-2018 10:29:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/recipes/edit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/recipes/edit.php on line 5
+[05-Dec-2018 10:30:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/recipes/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/recipes/delete.php on line 3
+[05-Dec-2018 10:34:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/kitchengocreativ/public_html/views/recipes/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/recipes/delete.php on line 3
+[11-Dec-2018 21:22:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kitchengocreativ/public_html/views/recipes/view.php on line 37
+[11-Dec-2018 21:32:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/kitchengocreativ/public_html/views/recipes/view.php on line 9
+[11-Dec-2018 13:33:31 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined function get_by_id() in /home/kitchengocreativ/public_html/views/recipes/view.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kitchengocreativ/public_html/views/recipes/view.php on line 9
+[11-Dec-2018 22:12:47 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/kitchengocreativ/public_html/views/recipes/index.php on line 130
